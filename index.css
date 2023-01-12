@@ -1,0 +1,509 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.idea-child,
+.idea-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-blue);
+  width: 1440px;
+  height: 94px;
+}
+.idea-item {
+  top: 130px;
+  left: 285px;
+  border-radius: var(--br-sm);
+  background-color: var(--color-white);
+  width: 870px;
+  height: 679px;
+}
+.idea1,
+.top-blog,
+.top-player {
+  position: absolute;
+  top: 163px;
+  left: 318px;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  color: var(--color-blue);
+}
+.idea1,
+.top-blog {
+  top: 33px;
+  left: 341px;
+  color: var(--color-white);
+}
+.top-blog {
+  top: 440px;
+  left: 315px;
+  color: var(--color-blue);
+}
+.about,
+.home,
+.works {
+  position: absolute;
+  top: 35px;
+  left: 847px;
+  font-size: var(--font-size-xs);
+  color: var(--color-white);
+}
+.about,
+.works {
+  left: 931px;
+}
+.works {
+  left: 1015px;
+}
+.john-smith {
+  position: absolute;
+  top: 253px;
+  left: 387px;
+  font-size: var(--font-size-sm);
+  font-weight: 500;
+}
+.ellipse-icon {
+  position: absolute;
+  top: 239px;
+  left: 315px;
+  width: 56px;
+  height: 56px;
+  object-fit: cover;
+}
+.abu-sufian,
+.maruf-ahmed,
+.mujahid,
+.pro-rasel,
+.shajedul-karim {
+  position: absolute;
+  top: 339px;
+  left: 387px;
+  font-size: var(--font-size-sm);
+  font-weight: 500;
+}
+.abu-sufian,
+.maruf-ahmed,
+.mujahid,
+.pro-rasel {
+  top: 253px;
+  left: 681px;
+}
+.abu-sufian,
+.maruf-ahmed,
+.mujahid {
+  top: 339px;
+}
+.abu-sufian,
+.mujahid {
+  top: 253px;
+  left: 975px;
+}
+.mujahid {
+  top: 339px;
+}
+.of-my-favorite {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.uiux-goodies {
+  margin: 0;
+}
+.of-my-favorite-container,
+.typography-tips-for-container,
+.ui-cheat-sheet-container,
+.your-logo-is-container {
+  position: absolute;
+  top: 507px;
+  left: 508px;
+  font-size: var(--font-size-lg);
+  line-height: 34px;
+  font-weight: 500;
+}
+.typography-tips-for-container,
+.ui-cheat-sheet-container,
+.your-logo-is-container {
+  top: 650px;
+}
+.ui-cheat-sheet-container,
+.your-logo-is-container {
+  top: 507px;
+  left: 944px;
+}
+.your-logo-is-container {
+  top: 650px;
+}
+.danny-sapio {
+  color: var(--color-blue);
+}
+.by-danny-sapio-container,
+.by-ferdinand-vogler-container,
+.by-jeremiah-lam-container,
+.by-tess-gadd-container {
+  position: absolute;
+  top: 581px;
+  left: 508px;
+  font-size: var(--font-size-xs);
+  color: var(--color-gray-300);
+}
+.by-ferdinand-vogler-container,
+.by-jeremiah-lam-container,
+.by-tess-gadd-container {
+  top: 724px;
+}
+.by-ferdinand-vogler-container,
+.by-tess-gadd-container {
+  top: 581px;
+  left: 944px;
+}
+.by-ferdinand-vogler-container {
+  top: 724px;
+}
+.ellipse-icon1,
+.mask-group-icon,
+.mask-group-icon1,
+.mask-group-icon2 {
+  position: absolute;
+  top: 507px;
+  left: 315px;
+  width: 177px;
+  height: 117px;
+  object-fit: cover;
+}
+.ellipse-icon1,
+.mask-group-icon1,
+.mask-group-icon2 {
+  left: 751px;
+}
+.ellipse-icon1,
+.mask-group-icon2 {
+  top: 650px;
+}
+.ellipse-icon1 {
+  top: 23px;
+  left: 1100px;
+  width: 51px;
+  height: 51px;
+}
+.ellipse-icon2,
+.ellipse-icon3,
+.ellipse-icon4,
+.ellipse-icon5,
+.ellipse-icon6 {
+  position: absolute;
+  top: 239px;
+  left: 609px;
+  width: 56px;
+  height: 56px;
+  object-fit: cover;
+}
+.ellipse-icon3,
+.ellipse-icon4,
+.ellipse-icon5,
+.ellipse-icon6 {
+  top: 324px;
+}
+.ellipse-icon4,
+.ellipse-icon5,
+.ellipse-icon6 {
+  top: 239px;
+  left: 903px;
+}
+.ellipse-icon5,
+.ellipse-icon6 {
+  top: 324px;
+}
+.ellipse-icon6 {
+  left: 313px;
+}
+.idea-inner {
+  position: absolute;
+  top: 409.5px;
+  left: 314.5px;
+  border-top: 1px solid #d1d1d1;
+  box-sizing: border-box;
+  width: 808px;
+  height: 1px;
+}
+.rectangle-div {
+  position: absolute;
+  top: 830px;
+  left: 285px;
+  border-radius: var(--br-sm);
+  background-color: var(--color-white);
+  width: 870px;
+  height: 362px;
+}
+.lates-course {
+  position: absolute;
+  top: 853px;
+  left: 318px;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  color: var(--color-blue);
+}
+.group-icon,
+.group-icon1,
+.group-icon2 {
+  position: absolute;
+  height: 24.3%;
+  width: 19.38%;
+  top: 73.11%;
+  right: 59.81%;
+  bottom: 2.58%;
+  left: 20.81%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-icon1,
+.group-icon2 {
+  right: 21.36%;
+  left: 59.25%;
+}
+.group-icon2 {
+  right: 40.64%;
+  left: 39.98%;
+}
+.reed-krakoff,
+.reed-krakoff1,
+.walter-scott {
+  position: absolute;
+  height: 1.42%;
+  width: 6.21%;
+  top: 89.71%;
+  left: 22.57%;
+  font-family: var(--font-roboto);
+  color: var(--color-brown-100);
+  display: inline-block;
+}
+.reed-krakoff1,
+.walter-scott {
+  left: 61.01%;
+}
+.walter-scott {
+  width: 5.56%;
+  left: 41.74%;
+}
+.group-92-1-icon,
+.group-92-1-icon1,
+.group-92-1-icon2 {
+  position: absolute;
+  height: 0.97%;
+  width: 5.19%;
+  top: 92.71%;
+  right: 72.14%;
+  bottom: 6.32%;
+  left: 22.66%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-92-1-icon1,
+.group-92-1-icon2 {
+  right: 33.7%;
+  left: 61.11%;
+}
+.group-92-1-icon2 {
+  right: 52.98%;
+  left: 41.83%;
+}
+.div,
+.div1,
+.div2 {
+  position: absolute;
+  height: 1.86%;
+  width: 1.48%;
+  top: 92.27%;
+  left: 28.6%;
+  color: var(--color-gray-200);
+  display: inline-block;
+}
+.div1,
+.div2 {
+  left: 67.04%;
+}
+.div2 {
+  left: 47.77%;
+}
+.react-the {
+  position: absolute;
+  top: 84.94%;
+  left: 22.57%;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  font-family: var(--font-roboto);
+  color: var(--color-gray-400);
+}
+.the-complete-javascript {
+  top: 84.94%;
+  left: 61.01%;
+}
+.course-2020,
+.guide-2020,
+.master-powerpoint-cour,
+.powerpoint-2020,
+.the-complete-javascript {
+  position: absolute;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  font-family: var(--font-roboto);
+  color: var(--color-gray-400);
+}
+.powerpoint-2020 {
+  height: 1.97%;
+  width: 10.67%;
+  top: 84.94%;
+  left: 41.74%;
+  display: inline-block;
+}
+.course-2020,
+.guide-2020,
+.master-powerpoint-cour {
+  top: 87.24%;
+  left: 22.57%;
+}
+.course-2020,
+.master-powerpoint-cour {
+  height: 1.97%;
+  width: 14.47%;
+  left: 61.01%;
+  display: inline-block;
+}
+.master-powerpoint-cour {
+  width: 15.21%;
+  left: 41.74%;
+}
+.idea-child1 {
+  right: 61.57%;
+  left: 31.85%;
+  background-color: var(--ffe4e8);
+}
+.idea-child1,
+.idea-child2,
+.idea-child3 {
+  position: absolute;
+  height: 2.41%;
+  width: 6.59%;
+  top: 92.16%;
+  bottom: 5.43%;
+  border-radius: var(--br-md);
+}
+.idea-child2 {
+  right: 23.13%;
+  left: 70.29%;
+  background-color: var(--ffe4e8);
+}
+.idea-child3 {
+  right: 42.4%;
+  left: 51.01%;
+  background-color: #fee5df;
+}
+.idea-child4 {
+  position: absolute;
+  height: 8.65%;
+  width: 15.58%;
+  top: 74.97%;
+  right: 42.68%;
+  bottom: 16.38%;
+  left: 41.74%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.ic-access-time-24px-1-icon,
+.ic-access-time-24px-2-icon,
+.ic-access-time-24px-3-icon {
+  position: absolute;
+  height: 1.64%;
+  width: 1.39%;
+  top: 92.49%;
+  right: 66.39%;
+  bottom: 5.87%;
+  left: 32.22%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.ic-access-time-24px-2-icon,
+.ic-access-time-24px-3-icon {
+  right: 27.95%;
+  left: 70.66%;
+}
+.ic-access-time-24px-2-icon {
+  right: 47.22%;
+  left: 51.39%;
+}
+.hr,
+.hr1,
+.hr2 {
+  position: absolute;
+  height: 1.64%;
+  width: 3.99%;
+  top: 92.49%;
+  left: 33.98%;
+  font-weight: 600;
+  font-family: var(--font-open-sans);
+  color: var(--ff4a60);
+  display: inline-block;
+}
+.hr1,
+.hr2 {
+  left: 72.43%;
+}
+.hr2 {
+  left: 53.15%;
+  color: var(--color-brown-100);
+}
+.lock-outline-2 {
+  position: absolute;
+  top: 1156.43px;
+  left: 955.39px;
+  width: 32.05px;
+  height: 32.05px;
+  overflow: hidden;
+}
+.mask-group-icon3 {
+  position: absolute;
+  top: 913px;
+  left: 324px;
+  width: 224px;
+  height: 104px;
+  object-fit: cover;
+}
+.idea-child5,
+.mask-group-icon4 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.mask-group-icon4 {
+  height: 8.65%;
+  width: 15.58%;
+  top: 74.97%;
+  right: 23.4%;
+  bottom: 16.38%;
+  left: 61.01%;
+  object-fit: cover;
+}
+.idea-child5 {
+  height: 4.18%;
+  width: 2.81%;
+  top: 2.13%;
+  right: 77.4%;
+  bottom: 93.69%;
+  left: 19.79%;
+}
+.idea {
+  position: relative;
+  background-color: #f3f1ff;
+  width: 100%;
+  height: 1220px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-2xs);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
